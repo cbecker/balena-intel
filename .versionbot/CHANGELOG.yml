@@ -1,4 +1,19 @@
 - commits:
+    - subject: Include firmware for AX200NGW and AX201NGW WiFi 6 adapters
+      hash: b2b68a9809ca5bcec71f4a953c97ed3bd9788cd7
+      body: |
+        - AX200NGW: iwlwifi-cc-a0 and ibt-20-1-3
+        - AX201NGW: iwlwifi-quz-a0-hr-b0 and ibt-19-0-4
+      footer:
+        Changelog-entry: Include firmware for AX200NGW and AX201NGW WiFi 6 adapters
+        changelog-entry: Include firmware for AX200NGW and AX201NGW WiFi 6 adapters
+        Signed-off-by: Michal Toman <michalt@balena.io>
+        signed-off-by: Michal Toman <michalt@balena.io>
+      author: Michal Toman
+      nested: []
+  version: 2.83.18+rev4
+  date: 2021-11-24T07:46:12.494Z
+- commits:
     - subject: Publish both flasher and raw images for Generic x86_64
       hash: 43867e2502306a472e70fa70432a0abbd53f1058
       body: ''
