@@ -1,6 +1,11 @@
 Change log
 -----------
 
+# v2.83.18+rev4
+## (2021-11-24)
+
+* Include firmware for AX200NGW and AX201NGW WiFi 6 adapters [Michal Toman]
+
 # v2.83.18+rev3
 ## (2021-11-23)
 
