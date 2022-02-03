@@ -5,4 +5,7 @@ HOSTAPP_HOOKS += " \
   999-resin-boot-cleaner \
   "
 
-RDEPENDS_${PN} += "util-linux-lsblk"
+RDEPENDS_${PN} += " \
+  os-helpers-fs \
+  util-linux-lsblk \
+"
